@@ -12,6 +12,8 @@ This version is organized for technical review. It keeps the parts that matter f
 
 ![ENKI handheld concept](assets/images/enki_handheld_refined_concept_preview.png)
 
+> Note: the current public repo still uses a concept render as the top image. Real hardware photos and test videos are linked below, and the cover image can be swapped to a hardware collage once that file is added to `assets/images/`.
+
 ## What This Project Does
 
 The system monitors water pipe conditions using:
@@ -45,6 +47,30 @@ Final leak severity shown on-device is determined by combining the model score w
 - **ML pipeline**: synthetic data generation, manifest building, feature extraction, training, evaluation, TFLite export, and firmware conversion
 - **Artifacts**: trained Keras model, scaler JSON, metrics, TFLite files, and Arduino-ready model arrays
 - **Documentation**: selected report appendices, results notes, presentation diagrams, and issue notes
+
+## Demo Videos
+
+Project demos and validation clips are collected in this Google Drive folder:
+
+- [ENKI demo video folder](https://drive.google.com/drive/folders/1o9d9tqtpuJP-XiGKITMrDfAXcVD0qzO7)
+
+Recommended clips to highlight in applications or interviews:
+
+- handheld leak-detection demo
+- clamp testing on the `1-inch` pipe
+- clamp testing on the `1/2-inch` pipe
+- large-leak validation runs
+- side-by-side node comparison clips
+
+## Hardware Validation
+
+The project was tested on a physical fluid-circuit demonstrator using both handheld and clamp-mounted prototypes. The strongest media to show in the public repo is:
+
+- full test-rig overview photo
+- `1-inch` vs `1/2-inch` pipe clamp placement photo
+- handheld device photos
+- clamp enclosure close-up photo
+- live test videos from the Drive folder above
 
 ## Repository Structure
 
