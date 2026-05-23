@@ -17,7 +17,7 @@ This version is organized for technical review. It keeps the parts that matter f
 The system monitors water pipe conditions using:
 
 - an `INMP441` digital microphone
-- a vibration sensor / analog accelerometer
+- an `ADXL335` analog 3-axis vibration sensor
 - a `BME680` environmental sensor
 - an `ESP32` running local signal processing and model inference
 
