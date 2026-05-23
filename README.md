@@ -1,6 +1,6 @@
 # ENKI Leak Detection
 
-Built by Ethan Garcia — AI/ML Engineer & Embedded Systems, University of the Incarnate Word
+Built by Ethan Garcia - AI/ML Engineer & Embedded Systems, University of the Incarnate Word
 
 Curated portfolio repository for **ENKI**, an embedded leak-detection prototype that combines **ESP32 firmware**, **signal processing**, and **TensorFlow Lite Micro** for on-device leak classification.
 
@@ -69,6 +69,8 @@ The project was tested on a physical fluid-circuit demonstrator using both handh
 - handheld device photos
 - clamp enclosure close-up photo
 - live test videos from the Drive folder above
+
+To add your own photos, place them in `assets/images/` and reference them from this README using a relative path such as `![Rig overview](assets/images/rig_overview.png)`.
 
 ## Repository Structure
 
@@ -153,7 +155,6 @@ The repo includes the final model outputs needed to review the deployment path:
 - saved split sizes: `112` train / `24` validation / `24` test
 - current saved metrics on the synthetic split: accuracy, precision, recall, F1, and ROC AUC all reported as `1.0`
 - Metrics reflect synthetic training data. Real pipe validation results are documented in [`docs/report_appendices/`](docs/report_appendices).
-- real pipe validation work is documented in the selected appendix notes under [`docs/report_appendices/`](docs/report_appendices)
 
 ## Quick Start
 
@@ -204,4 +205,3 @@ This repository shows the full implementation path from:
 - embedded inference on the ESP32
 - live device firmware behavior
 - supporting documentation and validation material
-
