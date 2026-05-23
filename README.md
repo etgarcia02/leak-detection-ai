@@ -10,10 +10,6 @@ This version is organized for technical review. It keeps the parts that matter f
 - feature engineering and validation materials
 - presentation and report assets that document the system design
 
-![ENKI handheld concept](assets/images/enki_handheld_refined_concept_preview.png)
-
-> Note: the current public repo still uses a concept render as the top image. Real hardware photos and test videos are linked below, and the cover image can be swapped to a hardware collage once that file is added to `assets/images/`.
-
 ## What This Project Does
 
 The system monitors water pipe conditions using:
