@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L12,6 L0,12 z" fill="#334155"/>
+    </marker>
+    <style>
+      .title { font: 700 30px Arial, sans-serif; fill: #0f172a; }
+      .box { stroke: #334155; stroke-width: 2; rx: 22; ry: 22; }
+      .h1 { font: 700 21px Arial, sans-serif; fill: #0f172a; }
+      .body { font: 16px Arial, sans-serif; fill: #334155; }
+      .arrow { stroke: #334155; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1600" height="760" fill="#ffffff"/>
+  <text x="800" y="60" text-anchor="middle" class="title">Embedded Leak Detection Pipeline</text>
+
+  <rect x="40" y="210" width="250" height="220" class="box" fill="#e0f2fe"/>
+  <text x="165" y="255" text-anchor="middle" class="h1">Sensor Inputs</text>
+  <text x="165" y="295" text-anchor="middle" class="body">INMP441 digital microphone</text>
+  <text x="165" y="325" text-anchor="middle" class="body">BME680 temperature / humidity</text>
+  <text x="165" y="355" text-anchor="middle" class="body">ADXL335 3-axis vibration sensor</text>
+
+  <rect x="330" y="210" width="250" height="220" class="box" fill="#dcfce7"/>
+  <text x="455" y="255" text-anchor="middle" class="h1">Preprocessing</text>
+  <text x="455" y="295" text-anchor="middle" class="body">Audio windowing</text>
+  <text x="455" y="325" text-anchor="middle" class="body">FFT / spectral analysis</text>
+  <text x="455" y="355" text-anchor="middle" class="body">Baseline correction</text>
+
+  <rect x="620" y="190" width="320" height="260" class="box" fill="#fef3c7"/>
+  <text x="780" y="255" text-anchor="middle" class="h1">Feature Extraction</text>
+  <text x="780" y="295" text-anchor="middle" class="body">RMS, peak frequency, spectral centroid</text>
+  <text x="780" y="325" text-anchor="middle" class="body">Low / mid / high band energies</text>
+  <text x="780" y="355" text-anchor="middle" class="body">Zero-crossing rate</text>
+  <text x="780" y="385" text-anchor="middle" class="body">Temperature and humidity</text>
+  <text x="780" y="415" text-anchor="middle" class="body">Vibration magnitude, mean, variance, trend</text>
+
+  <rect x="980" y="210" width="235" height="220" class="box" fill="#ede9fe"/>
+  <text x="1098" y="255" text-anchor="middle" class="h1">13-Feature Vector</text>
+  <text x="1098" y="295" text-anchor="middle" class="body">Fixed input order</text>
+  <text x="1098" y="325" text-anchor="middle" class="body">Mean / std normalization</text>
+  <text x="1098" y="355" text-anchor="middle" class="body">Matches training schema</text>
+
+  <rect x="1255" y="210" width="220" height="220" class="box" fill="#e0f2fe"/>
+  <text x="1365" y="255" text-anchor="middle" class="h1">TFLite Inference</text>
+  <text x="1365" y="295" text-anchor="middle" class="body">TensorFlow Lite Micro</text>
+  <text x="1365" y="325" text-anchor="middle" class="body">Runs on ESP32</text>
+  <text x="1365" y="355" text-anchor="middle" class="body">Binary leak probability</text>
+
+  <rect x="1495" y="210" width="95" height="220" class="box" fill="#fee2e2"/>
+  <text x="1542" y="255" text-anchor="middle" class="h1">Output</text>
+  <text x="1542" y="295" text-anchor="middle" class="body">OLED state</text>
+  <text x="1542" y="325" text-anchor="middle" class="body">No Leak</text>
+  <text x="1542" y="355" text-anchor="middle" class="body">Leak</text>
+  <text x="1542" y="385" text-anchor="middle" class="body">Large Leak</text>
+
+  <line x1="290" y1="320" x2="330" y2="320" class="arrow"/>
+  <line x1="580" y1="320" x2="620" y2="320" class="arrow"/>
+  <line x1="940" y1="320" x2="980" y2="320" class="arrow"/>
+  <line x1="1215" y1="320" x2="1255" y2="320" class="arrow"/>
+  <line x1="1475" y1="320" x2="1495" y2="320" class="arrow"/>
+</svg>

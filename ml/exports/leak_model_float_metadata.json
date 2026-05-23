@@ -1,0 +1,21 @@
+{
+  "model_path": "C:\\Users\\smnbn\\OneDrive\\Documents\\New project\\ml\\exports\\leak_model_float.tflite",
+  "quantize": "none",
+  "model_size_bytes": 6264,
+  "input_shape": [
+    1,
+    13
+  ],
+  "input_dtype": "<class 'numpy.float32'>",
+  "input_scale": 0.0,
+  "input_zero_point": 0,
+  "output_shape": [
+    1,
+    1
+  ],
+  "output_dtype": "<class 'numpy.float32'>",
+  "output_scale": 0.0,
+  "output_zero_point": 0,
+  "requires_external_scaling": true,
+  "scaler_header": "scaler_params.h"
+}

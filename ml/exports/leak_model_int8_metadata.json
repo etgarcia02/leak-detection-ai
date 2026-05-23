@@ -1,0 +1,21 @@
+{
+  "model_path": "C:\\Users\\smnbn\\OneDrive\\Documents\\New project\\ml\\exports\\leak_model_int8.tflite",
+  "quantize": "int8",
+  "model_size_bytes": 4864,
+  "input_shape": [
+    1,
+    13
+  ],
+  "input_dtype": "<class 'numpy.int8'>",
+  "input_scale": 0.01892535202205181,
+  "input_zero_point": -18,
+  "output_shape": [
+    1,
+    1
+  ],
+  "output_dtype": "<class 'numpy.int8'>",
+  "output_scale": 0.00390625,
+  "output_zero_point": -128,
+  "requires_external_scaling": true,
+  "scaler_header": "scaler_params.h"
+}

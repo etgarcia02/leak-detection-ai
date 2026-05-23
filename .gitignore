@@ -1,0 +1,30 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
+env/
+*.tmp
+*.log
+*.bak
+*.swp
+Thumbs.db
+
+# Arduino / local build noise
+*.bin
+*.elf
+*.map
+
+ml/data/raw/*
+!ml/data/raw/.gitkeep
+ml/data/features/*
+!ml/data/features/.gitkeep
+
+# Local secrets should never be committed
+**/aws_iot_config.h
+**/super_secret2.h

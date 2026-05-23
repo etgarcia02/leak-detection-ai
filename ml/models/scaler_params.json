@@ -1,0 +1,47 @@
+{
+  "feature_names": [
+    "rms",
+    "peak_frequency_hz",
+    "spectral_centroid_hz",
+    "low_band_energy",
+    "mid_band_energy",
+    "high_band_energy",
+    "zero_crossing_rate",
+    "temperature_c",
+    "humidity_pct",
+    "vibration_magnitude",
+    "vibration_mean",
+    "vibration_variance",
+    "vibration_trend"
+  ],
+  "means": [
+    12939.0693359375,
+    1160.7142333984375,
+    2379.680908203125,
+    1055878610944.0,
+    720262987776.0,
+    104713863168.0,
+    0.24592240154743195,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "stds": [
+    2287.072509765625,
+    1543.4036865234375,
+    220.4828643798828,
+    1494494609408.0,
+    422587695104.0,
+    115956244480.0,
+    0.11471006274223328,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ]
+}
