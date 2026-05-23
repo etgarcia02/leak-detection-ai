@@ -195,9 +195,9 @@ Helpful utilities:
 - Report snapshot: [`docs/report_appendices/final_report_for_upload.md`](docs/report_appendices/final_report_for_upload.md)
 - Half-inch reference table: [`docs/report_appendices/half_inch_pipe_reference_table.md`](docs/report_appendices/half_inch_pipe_reference_table.md)
 
-## Portfolio Context
+## Repository Scope
 
-This repository is the version I would share for technical interviews and applications. It is meant to show the full implementation path from:
+This repository shows the full implementation path from:
 
 - feature design
 - training and export tooling
