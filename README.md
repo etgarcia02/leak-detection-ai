@@ -44,7 +44,7 @@ Final leak severity shown on-device is determined by combining the model score w
 - **Firmware**: final handheld and clamp sketches, model headers, scaler headers, and validation builds
 - **ML pipeline**: synthetic data generation, manifest building, feature extraction, training, evaluation, TFLite export, and firmware conversion
 - **Artifacts**: trained Keras model, scaler JSON, metrics, TFLite files, and Arduino-ready model arrays
-- **Documentation**: selected report appendices, results notes, presentation diagrams, and issue notes
+- **Documentation**: selected report appendices, results notes, presentation diagrams, issue notes, and validation-data summaries
 
 ## Demo Videos
 
@@ -190,6 +190,7 @@ Helpful utilities:
 
 ## Selected Documentation
 
+- Validation data guide: [`docs/validation_data/README.md`](docs/validation_data/README.md)
 - Firmware appendix: [`docs/report_appendices/appendix_a_esp32_arduino_firmware.md`](docs/report_appendices/appendix_a_esp32_arduino_firmware.md)
 - ML appendix: [`docs/report_appendices/appendix_b_machine_learning_tensorflow_model.md`](docs/report_appendices/appendix_b_machine_learning_tensorflow_model.md)
 - Feature equations appendix: [`docs/report_appendices/appendix_c_feature_extraction_equations.md`](docs/report_appendices/appendix_c_feature_extraction_equations.md)

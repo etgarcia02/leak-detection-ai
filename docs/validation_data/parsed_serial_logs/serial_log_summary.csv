@@ -1,0 +1,5 @@
+"source_file","session_id","session_group","raw_label","parsed_rows","valid_rows","invalid_rows","skipped_non_data_lines","mean_sound_level","mean_peak_freq_hz","mean_spectral_center_hz","mean_zero_crossing_rate","mean_leak_prob","max_leak_prob","model_gate_count","candidate_leak_count","max_leak_count","max_final_leak","high_prob_rows_ge_0_90"
+"session1_leak.txt","session1_leak","session_1","leak","694","657","37","67","16628.537245","243.340944","2349.640472","0.154175","0.268907","1","111","50","5","0","111"
+"session1_no_leak.txt","session1_no_leak","session_1","no_leak","361","358","3","1","15243.196788","337.290503","2298.546788","0.164701","0.272082","0.999991","26","11","1","0","26"
+"session2_leak.txt","session2_leak","session_2","leak","301","218","83","1","17759.965459","156.536697","1927.649725","0.08005","0.229757","0.999995","37","3","1","0","37"
+"session2_no_leak.txt","session2_no_leak","session_2","no_leak","279","254","25","2","16638.128898","285.925197","1972.291772","0.113805","0.236375","1","32","9","2","0","32"

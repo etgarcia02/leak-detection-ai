@@ -1,0 +1,8 @@
+BUILD:
+DISTANCE: 11in
+TEST: small
+RUN: 3
+MODE: r6 detect_large
+TIME:
+
+Paste serial output below this line.

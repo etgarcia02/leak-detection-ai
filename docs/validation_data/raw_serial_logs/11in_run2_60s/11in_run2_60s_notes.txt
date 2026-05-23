@@ -1,0 +1,24 @@
+11-inch capture set, run 2, 60 seconds each
+
+Files:
+- 11in_no_leak_run2_60s.txt
+- 11in_small_run2_60s.txt
+- 11in_medium_run2_60s.txt
+- 11in_large_run2_60s.txt
+
+Suggested order:
+1. no leak
+2. small
+3. medium
+4. large
+
+Keep fixed:
+- same pipe spot
+- same sensor orientation
+- same distance
+- same pressure/flow setup
+- same hand pressure if handheld
+
+Note:
+- 60 seconds is useful for catching rare false positives
+- if your hand drifts too much over a minute, prop or brace the sensor if possible

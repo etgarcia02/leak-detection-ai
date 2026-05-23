@@ -1,0 +1,19 @@
+11-inch capture set
+
+Files:
+- 11in_no_leak_run1.txt
+- 11in_small_run1.txt
+- 11in_medium_run1.txt
+- 11in_large_run1.txt
+
+Suggested order:
+1. no leak
+2. small
+3. medium
+4. large
+
+Keep fixed:
+- same pipe spot
+- same sensor orientation
+- same hand pressure if handheld
+- same distance

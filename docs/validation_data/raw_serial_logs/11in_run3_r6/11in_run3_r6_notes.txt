@@ -1,0 +1,17 @@
+Run order:
+1. no leak
+2. small
+3. medium
+4. large
+
+Keep fixed:
+- distance: 11in
+- same pipe spot
+- same side/orientation
+- same pressure if possible
+- same sketch build: r6
+
+Most useful:
+- include the BUILD and CFG lines
+- use 30s or 60s consistently
+- avoid moving the sensor mid-run

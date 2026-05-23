@@ -1,0 +1,46 @@
+BUILD: large leak
+DISTANCE: 11in
+TEST: large
+RUN: 1
+Time: 30 seconds
+
+Paste serial output below this line.
+
+SoundLevel:26800.05	SpectralCenter:2067.93	ZeroCross:0.1102	LeakProb:0.000592	VibrationDelta:1044	VibrationMean:939.00	VibrationVar:4215.75	VibrationTrend:90.12	VibrationSustain:878.53	TempC:23.2	Moisture:51.1	LeakLevel:3	RawLevel:0
+SoundLevel:26878.05	SpectralCenter:1960.80	ZeroCross:0.0945	LeakProb:0.000199	VibrationDelta:1139	VibrationMean:825.12	VibrationVar:55489.36	VibrationTrend:98.62	VibrationSustain:814.45	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:27238.44	SpectralCenter:2042.33	ZeroCross:0.1024	LeakProb:0.000542	VibrationDelta:756	VibrationMean:711.12	VibrationVar:1200.61	VibrationTrend:0.00	VibrationSustain:844.71	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:31029.62	SpectralCenter:1897.33	ZeroCross:0.0315	LeakProb:0.000009	VibrationDelta:1253	VibrationMean:760.75	VibrationVar:40386.19	VibrationTrend:0.00	VibrationSustain:871.97	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:30904.99	SpectralCenter:1945.28	ZeroCross:0.0551	LeakProb:0.000063	VibrationDelta:1158	VibrationMean:923.50	VibrationVar:21591.50	VibrationTrend:68.12	VibrationSustain:868.25	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:31574.44	SpectralCenter:1805.68	ZeroCross:0.0315	LeakProb:0.000008	VibrationDelta:1100	VibrationMean:945.37	VibrationVar:9040.48	VibrationTrend:191.50	VibrationSustain:841.51	TempC:23.2	Moisture:50.9	LeakLevel:3	RawLevel:0
+SoundLevel:26775.70	SpectralCenter:2401.44	ZeroCross:0.1181	LeakProb:0.002885	VibrationDelta:1196	VibrationMean:1002.37	VibrationVar:20393.73	VibrationTrend:295.75	VibrationSustain:839.08	TempC:23.2	Moisture:50.9	LeakLevel:3	RawLevel:0
+SoundLevel:25800.68	SpectralCenter:2766.96	ZeroCross:0.2047	LeakProb:0.677500	VibrationDelta:1095	VibrationMean:895.25	VibrationVar:22203.94	VibrationTrend:240.62	VibrationSustain:800.67	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:3
+SoundLevel:22914.40	SpectralCenter:2205.13	ZeroCross:0.1024	LeakProb:0.007743	VibrationDelta:1032	VibrationMean:819.75	VibrationVar:24205.94	VibrationTrend:0.00	VibrationSustain:854.30	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:28727.93	SpectralCenter:2543.29	ZeroCross:0.1260	LeakProb:0.000437	VibrationDelta:1006	VibrationMean:828.62	VibrationVar:11979.98	VibrationTrend:0.00	VibrationSustain:875.85	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:28178.52	SpectralCenter:2048.65	ZeroCross:0.1024	LeakProb:0.000516	VibrationDelta:1068	VibrationMean:960.00	VibrationVar:3474.50	VibrationTrend:213.50	VibrationSustain:855.29	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:26690.66	SpectralCenter:2241.84	ZeroCross:0.1417	LeakProb:0.000697	VibrationDelta:1031	VibrationMean:816.00	VibrationVar:20588.00	VibrationTrend:59.88	VibrationSustain:830.56	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:26775.84	SpectralCenter:2266.51	ZeroCross:0.0945	LeakProb:0.000390	VibrationDelta:869	VibrationMean:685.62	VibrationVar:8902.73	VibrationTrend:0.00	VibrationSustain:843.00	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:27574.12	SpectralCenter:2519.38	ZeroCross:0.0866	LeakProb:0.000256	VibrationDelta:1114	VibrationMean:876.37	VibrationVar:35556.73	VibrationTrend:0.00	VibrationSustain:859.67	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:28736.54	SpectralCenter:2230.86	ZeroCross:0.0866	LeakProb:0.000116	VibrationDelta:1671	VibrationMean:1033.63	VibrationVar:79614.98	VibrationTrend:280.62	VibrationSustain:859.33	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:29331.18	SpectralCenter:2486.89	ZeroCross:0.0945	LeakProb:0.000239	VibrationDelta:1512	VibrationMean:1005.62	VibrationVar:64708.48	VibrationTrend:272.25	VibrationSustain:870.92	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:26892.66	SpectralCenter:2798.07	ZeroCross:0.1260	LeakProb:0.025962	VibrationDelta:1101	VibrationMean:810.87	VibrationVar:25464.11	VibrationTrend:0.00	VibrationSustain:837.81	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:28237.51	SpectralCenter:1832.76	ZeroCross:0.0315	LeakProb:0.000040	VibrationDelta:946	VibrationMean:707.75	VibrationVar:17373.19	VibrationTrend:0.00	VibrationSustain:848.26	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:30164.06	SpectralCenter:1797.64	ZeroCross:0.0472	LeakProb:0.000026	VibrationDelta:1227	VibrationMean:956.62	VibrationVar:18449.73	VibrationTrend:28.00	VibrationSustain:900.39	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:28704.31	SpectralCenter:1816.68	ZeroCross:0.0394	LeakProb:0.000068	VibrationDelta:1097	VibrationMean:946.12	VibrationVar:14968.86	VibrationTrend:209.75	VibrationSustain:847.83	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:27627.04	SpectralCenter:1915.65	ZeroCross:0.0945	LeakProb:0.000292	VibrationDelta:857	VibrationMean:778.25	VibrationVar:2215.94	VibrationTrend:0.00	VibrationSustain:851.67	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:26865.01	SpectralCenter:2436.71	ZeroCross:0.0787	LeakProb:0.000920	VibrationDelta:1144	VibrationMean:899.25	VibrationVar:12864.94	VibrationTrend:0.00	VibrationSustain:940.70	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:18687.76	SpectralCenter:2743.35	ZeroCross:0.2520	LeakProb:0.773323	VibrationDelta:1453	VibrationMean:1038.38	VibrationVar:43824.23	VibrationTrend:130.12	VibrationSustain:946.88	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:3
+SoundLevel:29585.18	SpectralCenter:2247.40	ZeroCross:0.0315	LeakProb:0.000041	VibrationDelta:1107	VibrationMean:981.62	VibrationVar:9879.48	VibrationTrend:0.00	VibrationSustain:953.67	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:31448.15	SpectralCenter:1597.41	ZeroCross:0.0157	LeakProb:0.000005	VibrationDelta:968	VibrationMean:789.87	VibrationVar:14401.86	VibrationTrend:0.00	VibrationSustain:902.43	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:30374.10	SpectralCenter:1658.32	ZeroCross:0.1102	LeakProb:0.000037	VibrationDelta:1262	VibrationMean:892.25	VibrationVar:37162.44	VibrationTrend:0.00	VibrationSustain:965.82	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:30651.83	SpectralCenter:1998.17	ZeroCross:0.0866	LeakProb:0.000036	VibrationDelta:1217	VibrationMean:1063.50	VibrationVar:8274.75	VibrationTrend:206.62	VibrationSustain:967.87	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:29039.88	SpectralCenter:1727.29	ZeroCross:0.0315	LeakProb:0.000024	VibrationDelta:1210	VibrationMean:888.87	VibrationVar:46798.11	VibrationTrend:98.12	VibrationSustain:910.60	TempC:23.2	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:26879.88	SpectralCenter:2123.26	ZeroCross:0.1024	LeakProb:0.000554	VibrationDelta:911	VibrationMean:776.75	VibrationVar:3556.94	VibrationTrend:0.00	VibrationSustain:894.72	TempC:23.3	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:29326.38	SpectralCenter:1523.18	ZeroCross:0.0315	LeakProb:0.000021	VibrationDelta:1253	VibrationMean:840.12	VibrationVar:37933.11	VibrationTrend:0.00	VibrationSustain:900.37	TempC:23.3	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:29205.60	SpectralCenter:2205.49	ZeroCross:0.0787	LeakProb:0.000083	VibrationDelta:1226	VibrationMean:1062.88	VibrationVar:10779.61	VibrationTrend:133.87	VibrationSustain:935.68	TempC:23.3	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:29995.51	SpectralCenter:1767.93	ZeroCross:0.0315	LeakProb:0.000017	VibrationDelta:1196	VibrationMean:1079.00	VibrationVar:7495.25	VibrationTrend:213.00	VibrationSustain:936.76	TempC:23.3	Moisture:51.0	LeakLevel:3	RawLevel:0
+SoundLevel:30737.80	SpectralCenter:1482.31	ZeroCross:0.0157	LeakProb:0.000006	VibrationDelta:1360	VibrationMean:904.37	VibrationVar:39820.98	VibrationTrend:57.50	VibrationSustain:910.93	TempC:23.3	Moisture:50.9	LeakLevel:3	RawLevel:0
+SoundLevel:22660.33	SpectralCenter:2837.10	ZeroCross:0.2441	LeakProb:0.649006	VibrationDelta:1072	VibrationMean:862.75	VibrationVar:16575.44	VibrationTrend:89.37	VibrationSustain:876.58	TempC:23.3	Moisture:50.9	LeakLevel:3	RawLevel:3
+SoundLevel:22735.67	SpectralCenter:2528.95	ZeroCross:0.1732	LeakProb:0.142760	VibrationDelta:868	VibrationMean:671.25	VibrationVar:29596.44	VibrationTrend:0.00	VibrationSustain:849.05	TempC:23.3	Moisture:50.9	LeakLevel:3	RawLevel:2
+SoundLevel:23023.06	SpectralCenter:2339.19	ZeroCross:0.1339	LeakProb:0.011094	VibrationDelta:1507	VibrationMean:853.75	VibrationVar:86354.94	VibrationTrend:0.00	VibrationSustain:873.50	TempC:23.3	Moisture:50.8	LeakLevel:3	RawLevel:0
+SoundLevel:24338.14	SpectralCenter:2542.97	ZeroCross:0.1654	LeakProb:0.576437	VibrationDelta:1083	VibrationMean:956.75	VibrationVar:11543.94	VibrationTrend:250.87	VibrationSustain:823.88	TempC:23.3	Moisture:50.8	LeakLevel:3	RawLevel:2
+SoundLevel:15862.82	SpectralCenter:2778.28	ZeroCross:0.2362	LeakProb:0.945241	VibrationDelta:1743	VibrationMean:1590.00	VibrationVar:58665.50	VibrationTrend:850.87	VibrationSustain:996.98	TempC:23.3	Moisture:50.8	LeakLevel:3	RawLevel:3
