@@ -1,6 +1,7 @@
 ## Project Photos
 
 Test Rig:
+
 <img width="378" height="266" alt="image" src="https://github.com/user-attachments/assets/743d7b14-bee5-4c11-8800-8781765c8740" />
 
 Clamp Setup:
