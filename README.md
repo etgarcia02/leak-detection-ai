@@ -1,6 +1,6 @@
 # ENKI Leak Detection
 
-Built by Ethan Garcia - AI/ML Engineer & Embedded Systems, University of the Incarnate Word
+Built by Ethan Garcia - Electrical Engineering Student, University of the Incarnate Word
 
 Curated portfolio repository for **ENKI**, an embedded leak-detection prototype that combines **ESP32 firmware**, **signal processing**, and **TensorFlow Lite Micro** for on-device leak classification.
 
