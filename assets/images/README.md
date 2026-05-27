@@ -5,6 +5,7 @@ Test Rig:
 <img width="378" height="266" alt="image" src="https://github.com/user-attachments/assets/743d7b14-bee5-4c11-8800-8781765c8740" />
 
 Clamp Setup:
+
 <img width="757" height="487" alt="image" src="https://github.com/user-attachments/assets/8b5008c8-2c6a-469f-8117-a99e01c28bb0" />
 
 Handheld and Hardware Setup:
