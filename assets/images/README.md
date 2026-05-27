@@ -1,19 +1,6 @@
-# Add Your Photos Here
+## Project Photos
 
-Place your real project photos in this folder.
-
-Recommended file names:
-
-- `rig_overview.png`
-- `pipe_comparison.png`
-- `handheld_device.png`
-- `clamp_closeup.png`
-- `hardware_collage.png`
-
-Example README image line:
-
-```md
-![Rig overview](assets/images/rig_overview.png)
-```
-
-If you replace an existing image reference in `README.md`, keep the file name exactly the same as the one used in the Markdown link.
+![Test rig](assets/images/test_rig.png)
+![Clamp setup](assets/images/clamp_setup.png)
+![Handheld and hardware setup](assets/images/handheld_and_hardware_setup.png)
+![Clamp enclosure and hardware](assets/images/clamp_enclosure_hardware.png)
